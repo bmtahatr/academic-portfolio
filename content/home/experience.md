@@ -39,7 +39,7 @@ experience:
         
   - title: Software Developer
     company: IT Solutions
-    company_url: 'https://itsolutions.dz/'
+    company_url: 'www.itsolutions.dz'
     company_logo: IT-Solutions-Sticky-Logo
     location: Boumerdes
     date_start: '2009-07-01'
