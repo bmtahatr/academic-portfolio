@@ -21,8 +21,8 @@ feature:
   icon_pack: fa
   name: Programming
 - description: programming and AI
-  icon: school
-  icon_pack: fas
+  icon: person-chalkboard
+  icon_pack: fab
   name: Teaching
 - description: Mangas, Books and News papers
   icon: book
