@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: Teaching computer science
 
-  #- title: Software Developer
+  - title: Software Developer
     company: IT Solutions
     company_url: 'www.itsolutions.dz'
     company_logo: IT-Solutions-Sticky-Logo
