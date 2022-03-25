@@ -38,7 +38,7 @@ experience:
     location: Boumerdes
     date_start: '2009-07-01'
     date_end: '2013-11-13'
-    description: Software Microsoft .Net Developer 
+    description: Software C Sharp and Microsoft .Net Developer 
 
 design:
   columns: '2'
