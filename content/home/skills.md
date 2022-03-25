@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: C and C Sharp
+- description: Developing application with Microsoft .Net technologies on Visal Studio Since 2009
   icon: code
   icon_pack: fa
-  name: Programming
-- description: programming and AI
-  icon: school
+  name: Microsoft .net Development
+- description: Assistant professor at the University of Boumerdes since 2013
+  icon: chalkboard-teacher
   icon_pack: fas
-  name: Teaching
+  name: Teaching Experience
 - description: Mangas, Books and News papers
-  icon: book
+  icon: microscope
   icon_pack: fas
-  name: Reading
+  name: Researching in image segmentation techniques field in collaboration with the Crestic center of Reims University
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
