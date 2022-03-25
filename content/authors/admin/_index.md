@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mohamed T. Bennai
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,17 +10,19 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Boumerdes
+  url: https://www.univ-boumerdes.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed AI, Multi-Agent Systems and Artificial Intelligence.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Multi-Agent Systems
+- Artificial Intelligence
+- Image Processing
+- IoT
 
 # Education to show in About widget
 education:
