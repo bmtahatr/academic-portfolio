@@ -22,7 +22,7 @@ feature:
   name: Programming
 - description: 100%
   icon: person-chalkboard
-  icon_pack: fa
+  icon_pack: fas
   name: Teaching
 - description: 10%
   icon: camera-retro
