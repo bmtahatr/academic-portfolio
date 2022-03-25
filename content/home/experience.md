@@ -23,20 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: GenCoin
+    company: University of Boumerdes
     company_url: 'www.univ-boumerdes.dz'
     company_logo: logo-umbb-crsic
     location: Boumerdes
     date_start: '2013-11-13'
     date_end: ''
 	description: Teaching computer science
-    #description: |2-
-    #    Responsibilities include:
-    #    
-    #    * Analysing
-    #    * Modelling
-    #    * Deploying
-        
+
   - title: Software Developer
     company: IT Solutions
     company_url: 'www.itsolutions.dz'
