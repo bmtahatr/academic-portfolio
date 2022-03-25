@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor
-    company: University of Boumerdes
-    company_url: 'www.univ-boumerdes.dz'
-    company_logo: logo-umbb-crsic
-    location: Boumerdes
-    date_start: '2013-11-13'
-    date_end: ''
-	description: Teaching computer science
+  #- title: Assistant Professor
+  #  company: University of Boumerdes
+  #  company_url: 'www.univ-boumerdes.dz'
+  #  company_logo: logo-umbb-crsic
+  #  location: Boumerdes
+  #  date_start: '2013-11-13'
+  #  date_end: ''
+	#description: Teaching computer science
 
   - title: Software Developer
     company: IT Solutions
