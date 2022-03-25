@@ -24,10 +24,10 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching Experience
-- description: Mangas, Books and News papers
+- description: Researching in image segmentation techniques field in collaboration with the Crestic center of Reims University
   icon: microscope
   icon_pack: fas
-  name: Researching in image segmentation techniques field in collaboration with the Crestic center of Reims University
+  name: Research Experience
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
