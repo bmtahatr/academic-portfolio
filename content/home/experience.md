@@ -29,7 +29,7 @@ experience:
     location: Boumerdes
     date_start: '2013-11-13'
     date_end: ''
-	description: Teaching computer science
+    description: Teaching computer science
 
   #- title: Software Developer
    # company: IT Solutions
