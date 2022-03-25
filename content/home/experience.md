@@ -32,13 +32,13 @@ experience:
     description: Teaching computer science
 
   #- title: Software Developer
-   # company: IT Solutions
-   # company_url: 'www.itsolutions.dz'
-   # company_logo: IT-Solutions-Sticky-Logo
-   # location: Boumerdes
-   # date_start: '2009-07-01'
-   # date_end: '2013-11-13'
-   # description: Software Microsoft .Net Developer 
+    company: IT Solutions
+    company_url: 'www.itsolutions.dz'
+    company_logo: IT-Solutions-Sticky-Logo
+    location: Boumerdes
+    date_start: '2009-07-01'
+    date_end: '2013-11-13'
+    description: Software Microsoft .Net Developer 
 
 design:
   columns: '2'
