@@ -18,11 +18,11 @@ subtitle:
 feature:
 - description: C and C Sharp
   icon: code
-  icon_pack: fab
+  icon_pack: fa
   name: Programming
 - description: 100%
   icon: person-chalkboard
-  icon_pack: fas
+  icon_pack: fa
   name: Teaching
 - description: 10%
   icon: camera-retro
