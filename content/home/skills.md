@@ -20,14 +20,14 @@ feature:
   icon: code
   icon_pack: fa
   name: Programming
-- description: 100%
+- description: programming and AI
   icon: person-chalkboard
-  icon_pack: fas
+  icon_pack: fab
   name: Teaching
-- description: 10%
-  icon: camera-retro
+- description: Mangas, Books and News papers
+  icon: book
   icon_pack: fas
-  name: Photography
+  name: Reading
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
