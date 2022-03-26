@@ -68,6 +68,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "m.bennai@univ-boumerdes.dz"
 
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
@@ -76,4 +78,4 @@ Mohamed T. Bennai is an assistant professor of computer science at the Universit
 
 Mohamed.T.Bennai made a PhD thesis centred on the use of multi-agent systems for medical images segmentation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

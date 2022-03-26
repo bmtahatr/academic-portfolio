@@ -16,41 +16,41 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+    #provider: netlify
+    #formspree:
+      #id:
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      #captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: m.bennai@univ-boumerdes.dz
+  #phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Faculty of Sciences, M'hamed Bougara University
+    city: Boumerdes
+    region: 35
+    postcode: '35000'
+    country: Algeria
+    country_code: DZ
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '36.752308'
+    longitude: '3.474472'
+  directions: Floor 2 of the LIMOS Laboratory Building
+  #office_hours:
+    #- 'Monday 10:00 to 13:00'
+    #- 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/mtbennai'
+    #- icon: video
+      #icon_pack: fas
+      #name: Zoom Me
+      #link: 'https://zoom.com'
 
 design:
   columns: '2'
